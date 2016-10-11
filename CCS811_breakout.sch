@@ -1713,7 +1713,8 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <text x="0" y="-38.1" size="2.54" layer="94" font="vector" ratio="10" align="bottom-center">v0.1
 (October 2016)</text>
 <text x="0" y="-45.72" size="1.27" layer="94" font="vector" ratio="10" align="bottom-center">Designed by
-Akram Ali</text>
+AKstudios
+http://github.com/AKstudios</text>
 <text x="7.62" y="22.86" size="1.778" layer="97">0x5B</text>
 </plain>
 <instances>
