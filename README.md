@@ -3,7 +3,7 @@ This is a breakout board for the [CCS811] (http://www.ccmoss.com/gas-sensors#CCS
 
 Optional: Add 10K-ohm pull-ups on SDA and SCL when using with other devices on the bus.
 
-Note: Arduino Library is currently under development.
+Arduino library available [here] (https://github.com/AKstudios/CCS811-library).
 
 <p align="center">
   <img src="https://github.com/AKstudios/CCS811-Breakout/blob/master/OSHPark%20render.png" alt="CRT Sensor Board"/>
