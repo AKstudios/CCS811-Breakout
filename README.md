@@ -1,9 +1,9 @@
 # CCS811 Breakout
-This is a breakout board for the [CCS811] (http://www.ccmoss.com/gas-sensors#CCS811) (VOC/eCO2) gas sensor by [AMS] (http://ams.com/eng/Products/Environmental-Sensors/Gas-Sensors/CCS811). All necessary pins for interfacing with the sensor are broken out. There is no external temperature and relative humidity sensor on the breakout and hence, the AUX pin is left floating. Temperature and relative humidity data from an external sensor can be manually written to ENV_DATA register (0x05) for dynamic compensation.Optionally, you can add 10K-ohm pull-ups on SDA and SCL when using with other devices on the bus.
+This is a breakout board for the <a href="http://www.ccmoss.com/gas-sensors#CCS811">CCS811</a>(VOC/eCO2) gas sensor by <a href="http://ams.com/eng/Products/Environmental-Sensors/Gas-Sensors/CCS811">AMS</a>. All necessary pins for interfacing with the sensor are broken out. There is no external temperature and relative humidity sensor on the breakout and hence, the AUX pin is left floating. Temperature and relative humidity data from an external sensor can be manually written to ENV_DATA register (0x05) for dynamic compensation.Optionally, you can add 10K-ohm pull-ups on SDA and SCL when using with other devices on the bus.
 
 Note: After reflow, allow 24-48 hours of burn-in time before the sensor starts reporting any good readings.
 
-Arduino library available [here] (https://github.com/AKstudios/CCS811-library).
+Arduino library available <a href="https://github.com/AKstudios/CCS811-library">here</a>.
 
 <p align="center">
   <img src="https://github.com/AKstudios/CCS811-Breakout/blob/master/OSHPark%20render.png" alt="CRT Sensor Board"/>
